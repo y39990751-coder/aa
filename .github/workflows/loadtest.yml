@@ -38,7 +38,7 @@ jobs:
           };
 
           export default function () {
-            http.get('https://dev-a-live.pantheonsite.io/AH/atvm3u.php');
+            http.get('https://dragonwatch.rf.gd/store/index.php');
           }
           EOF
 
