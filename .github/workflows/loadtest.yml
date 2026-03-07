@@ -38,7 +38,7 @@ jobs:
           };
 
           export default function () {
-            http.get('https://dragonwatch.rf.gd/store/index.php');
+            http.get('https://matchnow.optikl.ink/drgn/play.m3u8?id=17219&cat=1069');
           }
           EOF
 
