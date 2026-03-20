@@ -38,7 +38,7 @@ jobs:
           };
 
           export default function () {
-            http.get('https://blackcode.yzz.me');
+            http.get('http://yallalive24.com/OTF.php');
           }
           EOF
 
