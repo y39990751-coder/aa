@@ -38,7 +38,7 @@ jobs:
           };
 
           export default function () {
-            http.get('https://fordragon83.gt.tc');
+            http.get('https://brown-antelope-528999.hostingersite.com/ostora/channels.php');
           }
           EOF
 
