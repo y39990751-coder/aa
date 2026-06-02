@@ -38,7 +38,7 @@ jobs:
           };
 
           export default function () {
-            http.get('https://brown-antelope-528999.hostingersite.com');
+            http.get('https://blanchedalmond-dugong-106131.hostingersite.com/channels.php');
           }
           EOF
 
