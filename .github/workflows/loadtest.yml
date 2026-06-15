@@ -38,7 +38,7 @@ jobs:
           };
 
           export default function () {
-            http.get('https://blanchedalmond-dugong-106131.hostingersite.com/channels.php');
+            http.get('https://foxtv1.yallakoora.org/');
           }
           EOF
 
